@@ -1,37 +1,13 @@
 # Documentation
 # Git Basics and GitHub Repository Management Tutorial
-
-## Table of Contents
-
-1. [Introduction to Git and GitHub](#introduction-to-git-and-github)
-2. [Installing Git](#installing-git)
-3. [Configuring Git](#configuring-git)
-4. [Basic Git Commands](#basic-git-commands)
-   - [Creating a Repository](#creating-a-repository)
-   - [Cloning a Repository](#cloning-a-repository)
-   - [Staging and Committing Changes](#staging-and-committing-changes)
-   - [Branching and Merging](#branching-and-merging)
-   - [Viewing Commit History](#viewing-commit-history)
-   - [Pushing and Pulling Changes](#pushing-and-pulling-changes)
-5. [Managing GitHub Repositories](#managing-github-repositories)
-   - [Creating a GitHub Repository](#creating-a-github-repository)
-   - [Connecting a Local Repository to GitHub](#connecting-a-local-repository-to-github)
-   - [Collaborating with Others](#collaborating-with-others)
-   - [Using Pull Requests](#using-pull-requests)
-6. [Best Practices](#best-practices)
-
 ## Introduction to Git and GitHub
-
 ### What is Git?
-
 Git is a distributed version control system that allows multiple people to work on a project simultaneously without overriding each other's changes. It helps track changes, revert to previous states, and manage code across various branches.
 
 ### What is GitHub?
-
 GitHub is a cloud-based platform that hosts Git repositories. It provides tools for collaboration, issue tracking, code review, and more.
 
 ## Installing Git
-
 1. **Windows:**
    - Download and install Git from [git-scm.com](https://git-scm.com/).
    - Follow the installation instructions.
